@@ -1,13 +1,11 @@
 header{
-    display: flex;
+    box-sizing: content-box;
+    box-shadow: #f00;
 }
 
-p{
 
-    color: aqua;
-    
-    
+/* 
+#example_of_id{
+
 }
-.LOGO{
-width: 550px;
-}
+*/
